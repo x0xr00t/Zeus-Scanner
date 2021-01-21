@@ -4,5 +4,5 @@ python-nmap==0.6.1
 whichcraft==0.4.1
 pyvirtualdisplay==0.2.1
 lxml==3.7.3
-psutil==5.0.1
+psutil==5.6.6
 beautifulsoup4==4.6.0
